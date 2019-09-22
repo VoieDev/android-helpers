@@ -1,0 +1,3 @@
+rootProject.name='Android Helpers'
+include ':app'
+include ':helpers'
